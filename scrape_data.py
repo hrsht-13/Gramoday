@@ -1,6 +1,6 @@
 from kora.selenium import wd
 import pandas as pd
-from tdqm import tqdm
+from tqdm import tqdm
 
 market=['Achnera', 'Agra', 'Fatehabad','Fatehpur+Sikri', 'Jagnair', 'Jarar', 'Khairagarh','Samsabad']
 code=['2551','314','2550','2555','2553','2554','2552','2556']
