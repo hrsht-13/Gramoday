@@ -13,7 +13,8 @@ Follow the below steps to scrape the data.
 
 > pip install -r requirements.txt
 
-> !python scrape_data.py (enter the path of the current directory. eg if you are using colab then your path will be /content/Gramoday)
+> !python scrape_data.py 
+> (enter the path of the current directory. eg if you are using colab then your path will be /content/Gramoday)
 
 Data will be extracted in the same directory as ```data.csv```
 
