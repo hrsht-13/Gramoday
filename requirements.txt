@@ -1,2 +1,3 @@
 kora
 pandas
+tqdm
