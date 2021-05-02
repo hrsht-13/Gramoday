@@ -1,5 +1,5 @@
 from kora.selenium import wd
-import pandas pd
+import pandas as pd
 from tdqm import tqdm
 
 market=['Achnera', 'Agra', 'Fatehabad','Fatehpur+Sikri', 'Jagnair', 'Jarar', 'Khairagarh','Samsabad']
