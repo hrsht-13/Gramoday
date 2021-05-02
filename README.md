@@ -1,4 +1,4 @@
-# Gramoday
+# Gramoday-Assignment
 This assignment deals with the scrapping of data from the Agricultutal Marketing website. 
 ## Overviwew 
 There are over 4,000 agriculture markets (commonly known as mandis) in the country. Everyday prices fluctuate in the markets basis supply and demand of the crop. Prediction of crop prices is one of the most important task to ensure efficient crop planning and food safety in the country.
